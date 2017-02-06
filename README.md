@@ -7,7 +7,7 @@ Minor scripts in bash (.sh) and python (.py)
 A command-line invoked, very verbose, tab-delimited to csv-delimited file converter that outputs all lines to STDOUT to make its changes transparent. Includes representative strings with escape characters printed.  
 
 
-Module instructions:
+Module (pydoc) instructions:
 
 ```python
 """Converts a tab delimited file to a CSV
