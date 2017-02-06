@@ -9,11 +9,11 @@ A command-line invoked, very verbose, tab-delimited to csv-delimited file conver
 
 Module instructions:
 
-'''python
+```python
 """Converts a tab delimited file to a CSV
 FORMAT: python convert_tab_to_csv.py input_file.txt output_file.csv
 Will OVERWRITE existing output file if one is present."""
-'''
+```
 
 ---
 
