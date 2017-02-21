@@ -33,3 +33,8 @@ _Also stores ongoing expressions as you calculate. This calculator was made as p
 
 ---
 
+### solved*.py
+**Various kata that were tricky for myself or others**
+
+_Emphasis on robust, not compact, solutions_
+
