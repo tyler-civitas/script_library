@@ -27,3 +27,9 @@ NOTE: Will wrap fields in quotes to prevent comma-interference if
 _Also stores ongoing expressions as you calculate. This calculator was made as part of a workshop exercise_
 
 ---
+
+### word_sentence_char_counter.py
+**Saved to preserve the elegant character-by-character parsing logic**
+
+---
+
