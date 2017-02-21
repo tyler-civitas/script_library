@@ -21,3 +21,9 @@ NOTE: Will wrap fields in quotes to prevent comma-interference if
 
 ---
 
+### rpn.py
+**A very useless reverse-polish notation calculator script**
+
+_Also stores ongoing expressions as you calculate. This calculator was made as part of a workshop exercise_
+
+---
