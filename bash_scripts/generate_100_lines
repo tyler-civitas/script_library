@@ -1,0 +1,5 @@
+#!/Users/tyler/anaconda/bin/python
+
+for line_number in range(1, 101):
+	print "Line",
+	print line_number
