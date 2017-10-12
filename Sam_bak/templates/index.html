@@ -1,0 +1,34 @@
+$def with (arbitraryvariable)
+
+
+<html>
+<head>
+    <title>KEYSTROKES FOR AUTOAUTO CARS</title>
+</head>
+
+<body>
+    <script src="https://code.jquery.com/jquery-2.1.0.js"></script>
+    <script>
+
+    var directions = {
+                    87: "left",
+                    65: "up",
+                    83: "right",
+                    68: "down",
+                    32: "space"
+                      };
+
+    $$("body").keydown(function (event) {
+         var keystroke = directions[event.keyCode];
+         console.log(event.keyCode);
+         console.log(directions[event.keyCode]);
+         $$.ajax({
+             "url": "/",
+             "method": "POST",
+             "data": {"keystroke": keystroke}
+         });
+    });
+
+    </script>
+</body>
+</html>
